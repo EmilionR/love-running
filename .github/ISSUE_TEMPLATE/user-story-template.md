@@ -8,3 +8,9 @@ assignees: ''
 ---
 
 As a **role** I want to **capability** so that **benefit**
+
+**Acceptance Criteria:**
+
+a. 
+b. 
+c.
